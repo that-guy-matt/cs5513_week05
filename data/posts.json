@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "title": "Olivier Salad (Russian Potato Salad)",
     "date": "2025-09-14",
     "description": "A classic Slavic potato salad with vegetables, eggs, and mayonnaise.",
@@ -24,6 +25,7 @@
     ]
   },
   {
+    "id": 2,
     "title": "Myaso Po-Albanskii (Albanian-Style Meat)",
     "date": "2025-09-15",
     "description": "A savory Slavic dish of fried meat patties mixed with onions and spices.",
@@ -48,6 +50,7 @@
     ]
   },
   {
+    "id": 3,
     "title": "Shuba Salad (Herring Under a Blanket)",
     "date": "2025-09-15",
     "description": "A layered Slavic salad featuring herring, vegetables, and mayonnaise.",
